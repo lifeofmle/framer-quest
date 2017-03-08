@@ -1,0 +1,18 @@
+{
+  "orientation" : 90,
+  "updateDelay" : 0.3,
+  "contentScale" : 2,
+  "fullScreen" : false,
+  "sharedPrototype" : true,
+  "propertyPanelToggleStates" : {
+    "Filters" : false
+  },
+  "deviceType" : "apple-ipad-air-2-silver",
+  "projectId" : "E5F3CC3E-F009-438A-96B4-9F589791925C",
+  "deviceOrientation" : 90,
+  "selectedHand" : "",
+  "foldedCodeRanges" : [
+
+  ],
+  "deviceScale" : 0.25
+}
